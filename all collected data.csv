@@ -1,0 +1,64 @@
+Area name,latitude,longitude,Number of houses,Total plots,Area density,Average age,Material used,No. of old homes(above>25 years),House Type,Type,Construction chances
+Kusnoor Road,17.312469,76.8669308,7,44,0.159090909,about ten,brick,2,normal,New home,high
+Kusnoor Road,17.30723134,76.87009738,8,30,0.266666667,about twenty,brick,2,normal,New home,high
+Kusnoor Road,17.3114811,76.8680113,7,24,0.291666667,about ten,brick,0,normal,New home,high
+Kusnoor Road,17.30720959,76.87020745,9,30,0.3,about ten,brick,1,normal,New home,high
+Tilak Nagar,17.3153988,76.8629522,3,10,0.3,about ten,brick,1,normal,New home,high
+Tilak Nagar,17.3159827,76.8619458,9,30,0.3,about ten,brick,0,normal,New home,high
+Kusnoor Road,17.3076698,76.87214641,11,32,0.34375,about ten,brick,0,normal,New home,high
+Vivekananda nagar,17.3455508,76.8180827,13,26,0.5,about ten,brick,0,normal,New home,high
+Kusnoor Road,17.3110139,76.8693876,14,28,0.5,about ten,brick,0,normal,New home,high
+Tilak Nagar,17.3176157,76.8587054,25,42,0.595238095,about twenty,brick,3,morden ,New home,modrate
+Tilak Nagar,17.31593792,76.86101655,29,48,0.604166667,about twenty,brick,2,normal,New home,modrate
+NR colony,17.3392516,76.8166709,16,24,0.666666667,about twenty,brick,0,normal,New home,modrate
+Vivekananda nagar,17.34729181,76.81778269,17,22,0.772727273,about twenty,brick,0,normal,New home,modrate
+Vivekananda nagar,17.34613334,76.81908667,25,32,0.78125,about ten,brick,0,normal,New home,modrate
+NR colony,17.33945732,76.8188541,21,24,0.875,about twenty,brick,5,normal,New home,low
+NR colony,17.33924237,76.81607811,25,28,0.892857143,about twenty,brick,5,normal,New home,low
+borabai colony,17.33614312,76.82299129,38,38,1,about forty,stone,20,simple,Renovation,low
+swastik nagar1,17.3295125,76.8579552,14,20,0.7,about twenty,brick,0,morden ,Renovation,high
+swastik nagar2,17.3294583,76.8583723,16,20,0.8,about twenty,brick,0,morden ,Renovation,high
+swastik nagar3,17.3286756,76.8592921,13,20,0.65,about twenty,brick,2,morden ,Renovation,modrate
+swastik nagar4,17.3274454,76.8617124,9,20,0.45,about twenty,brick,0,normal,New home,high
+om nagar1,17.328497,76.8630158,13,20,0.65,about twenty,brick,4,normal,Renovation,modrate
+om nagar,17.3291575,76.8651821,12,20,0.6,about twenty,brick,0,normal,Renovation,modrate
+om nagar,17.3281403,76.8696684,8,20,0.4,about twenty,brick,0,normal,Renovation,high
+Brhampur,17.3334782,76.8272308,35,35,1,about forty,stone,29,simple,Renovation,modrate
+Brhampur,17.3327355,76.8259578,29,29,1,about forty,stone,26,simple,Renovation,modrate
+Brhampur,17.3340964,76.8263584,18,18,1,about forty,stone,16,simple,Renovation,modrate
+Brhampur,17.334896,76.824851,26,26,1,about forty,stone,14,normal,Renovation,modrate
+Brhampur,17.3311635,76.8225943,34,34,1,about forty,stone,29,normal,Renovation,modrate
+Brhampur,17.33673,76.8249019,24,24,1,about forty,stone,19,simple,Renovation,modrate
+old raghvendra colony,17.3360613,76.8230344,16,16,1,about thirty,brick,8,normal,Renovation,modrate
+old raghvendra colony,17.3353418,76.8213587,24,24,1,about thirty,brick,9,normal,Renovation,modrate
+manas,17.32202823,76.88660077,5,20,0.25,about ten,brick,0,morden ,New home,high
+manas,17.32202823,76.88660077,4,20,0.2,about ten,brick,0,morden ,New home,high
+adarsh nagar,17.33533703,76.85574164,12,12,1,about twenty,brick,4,normal,Renovation,modrate
+adarsh nagar,17.33533703,76.85574164,10,11,0.909090909,about twenty,brick,2,normal,Renovation,low
+sidhrammeshwar nagar,17.35642747,76.81758231,7,7,1,about twenty,brick,0,normal,Renovation,modrate
+msk mill,17.3356238,76.8114894,18,24,0.75,about twenty,brick,7,simple,Renovation,low
+oza layout,17.2884204,76.8149191,8,26,0.307692308,about ten,brick,0,morden ,New home,high
+oza layout,17.29582977,76.81588864,7,20,0.35,about ten,brick,0,morden ,New home,high
+oza layout,17.2953032,76.8157587,8,20,0.4,about ten,brick,0,morden ,New home,high
+opp of High court,17.3118061,76.8068914,3,24,0.125,about ten,brick,0,morden ,New home,high
+asian layout,17.3065956,76.8001186,5,32,0.15625,about ten,brick,0,morden ,New home,high
+"Chakkar Katta, Maktampura, Gulbarga,",17.3340083,76.8393085,15,16,0.9375,about twenty,brick,4,normal,Renovation,modrate
+GDA layout(near Om nagar),17.3287301,76.8631463,14,21,0.666666667,about ten,brick,0,normal,New home,modrate
+Jaya nagar,17.32502617,76.8574328,20,26,0.769230769,about ten,brick,1,normal,Renovation,low
+Jaya nagar,17.32374006,76.85852432,24,26,0.923076923,about ten,brick,2,normal,Renovation,low
+Jaya nagar,17.3249659,76.85984363,11,11,1,about twenty,brick,1,normal,Renovation,low
+Doctors colony,17.32135376,76.85675254,6,12,0.5,about ten,brick,0,morden ,New home,modrate
+Doctors colony,17.32214689,76.8575388,21,26,0.807692308,about ten,brick,0,morden ,Renovation,low
+Doctors colony,17.32211348,76.85882179,6,6,1,about ten,brick,0,morden ,Renovation,low
+prashant nagar,17.31550911,76.85285566,21,36,0.583333333,about ten,brick,0,morden ,New home,modrate
+prashant nagar,17.31462606,76.8549797,19,36,0.527777778,about ten,brick,0,morden ,New home,modrate
+prashant nagar,17.31501182,76.85548503,20,36,0.555555556,about ten,brick,2,morden ,New home,modrate
+Bhagya nagar,17.3227926,76.86697976,15,20,0.75,about twenty,brick,0,morden ,Renovation,modrate
+Bhagya nagar,17.32214259,76.86496108,12,20,0.6,about ten,brick,1,morden ,New home,modrate
+Bhagya nagar,17.32156688,76.86626299,16,22,0.727272727,about ten,brick,0,morden ,New home,modrate
+"Nrupatunga Colony, Tilak Nagar, Kusnoor, Gulbarga, Karnataka 585106",17.30420839,76.85943653,34,52,0.653846154,about ten,brick,4,morden ,New home,high
+"Nrupatunga Colony, Tilak Nagar, Kusnoor, Gulbarga, Karnataka 585106",17.30531422,76.85832262,22,33,0.666666667,about ten,brick,10,morden ,Renovation,high
+"Nrupatunga Colony, Tilak Nagar, Kusnoor, Gulbarga, Karnataka 585106",17.30421442,76.85759122,29,34,0.852941176,about twenty,brick,5,normal,Renovation,modrate
+adarsh nagar,17.33301425,76.85744486,26,26,1,about twenty,brick,12,normal,Renovation,modrate
+adarsh nagar,17.33107588,76.85697038,32,36,0.888888889,about twenty,brick,13,normal,Renovation,modrate
+adarsh nagar,17.32756218,76.85517765,32,43,0.744186047,about twenty,brick,4,normal,Renovation,modrate
